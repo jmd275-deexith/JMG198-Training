@@ -4,6 +4,11 @@ class Main {
         System.out.println(" Server is Live ");
 
         // Backend Endpoints ( GET )
+        
+        // GET - /health
         System.out.println(" Backend Endpoint created -> /platform-engineering-app/health ");
+
+        // GET - /api/v1
+        System.out.println(" Backend Endpoint created -> /platform-engineering-app/api/v1 "); 
     }
 }
