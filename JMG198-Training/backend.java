@@ -15,5 +15,7 @@ class Main {
 
         // GET - /api/v2
         System.out.println(" Backend Endpoint created -> /platform-engineering-app/api/v2 "); 
+        // GET - /api/v3
+        System.out.println(" Backend Endpoint created -> /platform-engineering-app/api/v3 "); 
     }
 }
